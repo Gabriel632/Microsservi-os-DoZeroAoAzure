@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\refint\GeekShopping.MessageBus.dll
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Users\gabri\OneDrive\Documentos\MyDocs\Estudos\Microsserviços\Microsserviços-DoZeroAoAzure\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll

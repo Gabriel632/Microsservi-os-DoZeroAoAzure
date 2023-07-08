@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VRDlcFDxtDbJ8buv9xyPMpMpnt4Xw7zfRELQAORD0bM=",
+  "Source": "GeekShopping.APIGateway",
+  "BasePath": "_content/GeekShopping.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
